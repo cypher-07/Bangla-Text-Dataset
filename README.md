@@ -1,2 +1,3 @@
 # Bangla-Text-Dataset
-Social media comments in Bengali language with labels
+Social media comments in Bengali language with labels.
+The total amount of collected comments is 44001. The dataset is compiled with the aim of developing the ability of machines to differentiate whether a word is a bully expression or not with the help of Natural Language Processing and to what extent it is improper if it is an inappropriate comment. The comments are labelled with different category bullies with the help of experts and consensus. Due to the scarcity of data collection of categorised Bengali language comments, this dataset can have a significant role for research in detecting bully words, identifying inappropriate comments, detecting different categories of Bengali bullies, etc.
